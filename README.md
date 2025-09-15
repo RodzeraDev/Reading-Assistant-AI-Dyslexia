@@ -4,11 +4,11 @@ Readable is an AI tool that simplifies text for people with reading issues, main
 
 # Feature List
 
-- AI backend that simplifies the text
+- AI backend that simplifies the text based on data
 - Rule set to interact with specific types of sentences and words
-- Feeback system with thumbs up/down
+- Feeback system with thumbs up/down, along with storage system for that
 - Readability evaluation
-- Web interface
+- Interface, web based, although with future plans to change that to an app in a near future
 
 
 # Quick start:

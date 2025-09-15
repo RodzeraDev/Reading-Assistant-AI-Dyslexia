@@ -4,4 +4,3 @@ transformers
 torch
 sqlalchemy
 python-dotenv
-textstat
