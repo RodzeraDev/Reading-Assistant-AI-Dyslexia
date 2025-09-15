@@ -1,0 +1,19 @@
+# Ignore for python
+
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# For node
+node_modules/
+.next/
+dist/
+
+# OS
+.DS_Store
+
+#Local stuff
+
+backend/data/feedback.db
+backend/data/models/
